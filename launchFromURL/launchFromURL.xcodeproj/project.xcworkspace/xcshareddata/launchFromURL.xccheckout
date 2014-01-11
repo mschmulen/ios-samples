@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C0D11441-FEFD-43A6-9D62-D98BD0C7E644</string>
+	<key>IDESourceControlProjectName</key>
+	<string>launchFromURL</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>735DF4D9-794B-4ACC-8A1A-F33470DB0338</key>
+		<string>ssh://github.com/mschmulen/ios-samples.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>launchFromURL/launchFromURL.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>735DF4D9-794B-4ACC-8A1A-F33470DB0338</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/mschmulen/ios-samples.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>735DF4D9-794B-4ACC-8A1A-F33470DB0338</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>735DF4D9-794B-4ACC-8A1A-F33470DB0338</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-samples</string>
+		</dict>
+	</array>
+</dict>
+</plist>
